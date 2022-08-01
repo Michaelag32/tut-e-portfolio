@@ -186,8 +186,8 @@ nav {
 .about-me__picture {
     width: 100%;
 
-/*improving my own pic before padding top was 8px*/ 
-    transform: scale(1.5);
+/*improving my own pic before padding top was 8px and scale was 1.5*/ 
+    transform: scale(2.2);
     padding-top: 20px;
 }
 
